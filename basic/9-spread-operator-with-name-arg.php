@@ -16,6 +16,9 @@ print_r($result);
 echo "</pre>";
 
 // Spread Operator with Named Arguments:
-// 6
+
+// Name: Muhammad Sujan Prodhan
+// Designation : Lead Software Engineer 
+// Department: Software Development
 
 ?>
